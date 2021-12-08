@@ -1,6 +1,6 @@
 {
-  "name": "react-native-markdown-display",
-  "version": "7.0.0-alpha.2",
+  "name": "@flowchase/react-native-markdown-display",
+  "version": "1.0.0",
   "description": "Markdown renderer for react-native, with CommonMark spec support + adds syntax extensions & sugar (URL autolinking, typographer), originally created by Mient-jan Stelling as react-native-markdown-renderer",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamacup/react-native-markdown-display.git"
+    "url": "git+https://github.com/flowchase/react-native-markdown-display.git"
   },
   "keywords": [
     "react",
